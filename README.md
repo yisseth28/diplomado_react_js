@@ -11,7 +11,7 @@ en este proyecto se busca aprende de Js y de React Js
 - [Nelsonlc86](https://github.com/Nelsonlc86)
 - Sebastian Meneses
 - [Jhon Sandoval](https://github.com/JhonSandoval)
-- EduCnz4
+- [Eduardo Camacho](https://github.com/EduCnz4)
 - Diego Meneses
 - [Camilo Zambrano](https://github.com/Zeta-exe)
 Wilfer Acosta
