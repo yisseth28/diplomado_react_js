@@ -8,7 +8,7 @@ en este proyecto se busca aprende de Js y de React Js
 - [Kevin Valderrama ](https://github.com/KevinValderrama518)
 - Julio Cesar Alarcon https://github.com/JulioCesarAlarconUrazan/diplomadoReactJs
 -Andres Parra
-- Nelsonlc86
+- [Nelsonlc86](https://github.com/Nelsonlc86)
 - Sebastian Meneses
 - JhonSandoval
 - [Eduardo Camacho](https://github.com/EduCnz4)
