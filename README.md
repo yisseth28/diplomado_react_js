@@ -5,5 +5,6 @@ en este proyecto se busca aprende de Js y de React Js
 ## participantes 
 - Yurley Sanchez
 - Sebastian Meneses
+- JhonSandoval
 
 
