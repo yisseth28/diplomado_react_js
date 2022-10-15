@@ -10,3 +10,4 @@ en este proyecto se busca aprende de Js y de React Js
 - JhonSandoval
 - Diego Meneses
 
+Wilfer Acosta
