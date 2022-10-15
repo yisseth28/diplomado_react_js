@@ -5,7 +5,7 @@ en este proyecto se busca aprende de Js y de React Js
 
 - [Yurley Sanchez ](https://github.com/Yursksf1)
 - Wilfer Acosta
-- Kevinvalderrama518
+- [Kevin Valderrama](https://github.com/KevinValderrama518)
 - [JulioCesarAlarcon ]( https://github.com/JulioCesarAlarconUrazan/diplomadoReactJs)
 -Andres Parra
 - [Nelsonlc86](https://github.com/Nelsonlc86)
