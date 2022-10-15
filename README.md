@@ -6,3 +6,4 @@ en este proyecto se busca aprende de Js y de React Js
 - Yurley Sanchez
 
 
+Wilfer Acosta
