@@ -14,3 +14,4 @@ en este proyecto se busca aprende de Js y de React Js
 - [Eduardo Camacho](https://github.com/EduCnz4)
 - Diego Meneses
 Wilfer Acosta
+-Paula Andrea Salazar
