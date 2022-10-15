@@ -3,7 +3,7 @@
 en este proyecto se busca aprende de Js y de React Js 
 ## participantes
 
-- [https://github.com/Yursksf1](Yurley Sanchez)
+- [Yurley Sanchez ](https://github.com/Yursksf1)
 - Wilfer Acosta
 - Kevinvalderrama518
 - Julio Cesar Alarcon https://github.com/JulioCesarAlarconUrazan/diplomadoReactJs
