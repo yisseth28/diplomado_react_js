@@ -16,4 +16,4 @@ en este proyecto se busca aprende de Js y de React Js
 - [Camilo Zambrano](https://github.com/Zeta-exe)
 Wilfer Acosta
 - [Wleimer M ](https://github.com/Wleimerjose/)
--Paula Andrea Salazar
+- Paula Andrea Salazar
