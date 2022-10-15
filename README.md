@@ -12,6 +12,6 @@ en este proyecto se busca aprende de Js y de React Js
 - Sebastian Meneses
 - [Jhon Sandoval](https://github.com/JhonSandoval)
 - EduCnz4
-- Diego Meneses
+- [Diego Meneses](https://github.com/DiegoMenesesLeon)
 Wilfer Acosta
 -Paula Andrea Salazar
