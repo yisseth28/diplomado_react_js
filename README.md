@@ -7,4 +7,5 @@ en este proyecto se busca aprende de Js y de React Js
 - Nelsonlc86
 - Sebastian Meneses
 - JhonSandoval
+- Diego Meneses
 
